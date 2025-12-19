@@ -1,3 +1,13 @@
+!! Team Project (팀 프로젝트) !!
+본 저장소는 팀 프로젝트로 진행된 
+'머신비전 활용 불량 검출 시스템 - PCB 불량 검출 시스템'의 개인 Fork 저장소입니다.
+
+- 원본 저장소: https://github.com/ArianSung/PCB_Detect_Project  
+- 담당 역할:  
+  - C# WinForms 기반 UI 화면 구현  
+  - 사용자 관리 기능 개발  
+  - 검사 이력 조회 및 결과 시각화 화면 구현
+
 # 🔍 PCB 불량 검사 시스템 (PCB Defect Detection System)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
