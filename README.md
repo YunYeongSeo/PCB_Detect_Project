@@ -251,8 +251,8 @@ PCB_Detect_Project/
 ## 👨‍💻 개발자
 
 **ArianSung**
-- GitHub: [@ArianSung](https://github.com/ArianSung)
-- Email: sys1041@naver.com
+- GitHub: [@YunYeongSeo](https://github.com/YunYeongSeo)
+- Email: yuss1103@naver.com
 
 ## 📄 라이선스
 
