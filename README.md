@@ -257,11 +257,3 @@ PCB_Detect_Project/
 ## 📄 라이선스
 
 이 프로젝트는 MIT 라이선스 하에 배포됩니다. 자세한 내용은 [LICENSE](LICENSE) 파일을 참조하세요.
-
----
-
-<div align="center">
-  <strong>🎓 졸업 프로젝트 - PCB 불량 검사 시스템</strong>
-  <br>
-  Made with ❤️ by ArianSung
-</div>
